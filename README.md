@@ -5,3 +5,5 @@
 * https://www.youtube.com/watch?v=IgfRdDjLxe0
 ## 0123
 *  Hands on Machine Learning https://anvaka.github.io/greview/hands-on-ml/1/
+## ML with GridSearch
+* https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-3.html
